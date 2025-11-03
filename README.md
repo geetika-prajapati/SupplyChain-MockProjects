@@ -18,3 +18,4 @@ This repository contains a self-initiated mock implementation simulating trailer
 **Contact**
 LinkedIn: https://www.linkedin.com/in/geetika-9a66781b4/
 
+<img width="800" height="270" alt="image" src="https://github.com/user-attachments/assets/6df53929-ace0-4a86-ad29-29f6de94264b" />
