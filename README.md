@@ -10,6 +10,9 @@ This repository contains a self-initiated mock implementation simulating trailer
 - `Trailer_Flow_Optimization.xlsx` — Dataset, pivot table, and dashboard charts.
 - `Trailer_Project_Summary.pdf` — One-page project summary (objective, outcome, key learnings).
 
+  Dashboard Screenshot
+  <img width="800" height="270" alt="image" src="https://github.com/user-attachments/assets/6df53929-ace0-4a86-ad29-29f6de94264b" />
+
 **Skills demonstrated**
 - Supply chain operations & asset balancing
 - Practical Excel usage: pivot tables, charts, conditional formatting
@@ -18,4 +21,4 @@ This repository contains a self-initiated mock implementation simulating trailer
 **Contact**
 LinkedIn: https://www.linkedin.com/in/geetika-9a66781b4/
 
-<img width="800" height="270" alt="image" src="https://github.com/user-attachments/assets/6df53929-ace0-4a86-ad29-29f6de94264b" />
+
